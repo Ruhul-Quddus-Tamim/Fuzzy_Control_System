@@ -18,6 +18,8 @@ This problem is formulated as:
     • Fuzzy set: : LIGHT, MEDIUM, HEAVY, VERY HEAVY
 
     Consequents (Outputs)
+    
  Wash Time
+ 
     • Universe: How much will it take to wash ll the plates are measured on a scale of 0 to 90 minutes
     • Fuzzy set:  SHORT, AVERAGE, LONG
